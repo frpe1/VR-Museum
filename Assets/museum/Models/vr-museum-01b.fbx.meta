@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: CurvedRoofGlasMaterial
     second: {fileID: 2100000, guid: 5ca880e3ff34dfa4dad993fe25ca287d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallmaterial
+    second: {fileID: 2100000, guid: 2797e6ceaa957694cb3bbbab369f59a8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
