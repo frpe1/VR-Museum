@@ -2169,7 +2169,7 @@ Transform:
   - {fileID: 1598883}
   - {fileID: 597745442}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &160734827
 GameObject:
@@ -8987,7 +8987,7 @@ RectTransform:
   - {fileID: 1544538573}
   - {fileID: 1243135355}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9478,7 +9478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9c63d189d7478ad49a0fe32ddb4bf400, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9c63d189d7478ad49a0fe32ddb4bf400, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10998,11 +10998,11 @@ MonoBehaviour:
     say this. In Vienna the tower rises at the edge of a large city, but the Rotterdam
     tower is in open countryside.
 
-    The paintings depict the construction of
-    the Tower of Babel, which, according to the Book of Genesis in the Bible, was
-    built by a unified, monolingual humanity as a mark of their achievement and to
-    prevent them from scattering: "Then they said, ''Come, let us build ourselves
-    a city, and a tower with its top in the heavens, and let us make a name for ourselves;
+    The paintings depict the construction of the
+    Tower of Babel, which, according to the Book of Genesis in the Bible, was built
+    by a unified, monolingual humanity as a mark of their achievement and to prevent
+    them from scattering: "Then they said, ''Come, let us build ourselves a city,
+    and a tower with its top in the heavens, and let us make a name for ourselves;
     otherwise we shall be scattered abroad upon the face of the whole earth.''" (Genesis
     11:4).'
   m_isRightToLeft: 0
@@ -11470,7 +11470,7 @@ Transform:
   - {fileID: 664343801}
   - {fileID: 482751790}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &852985808
 GameObject:
@@ -12079,7 +12079,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &902298863
 GameObject:
@@ -16796,6 +16796,75 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1342874211}
   m_CullTransparentMesh: 1
+--- !u!1001 &1345965521
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -3.7493994e-33
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -6.123234e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 6.123234e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
+      propertyPath: m_Name
+      value: vr-museum-01b3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ae8eeefb772f8c1469a329ba513afa61, type: 3}
 --- !u!1 &1354755738
 GameObject:
   m_ObjectHideFlags: 0
@@ -19774,7 +19843,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 827630d4eb3a0124ba4ae5713fa9c69e, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 827630d4eb3a0124ba4ae5713fa9c69e, type: 3}
       propertyPath: m_LocalScale.x
@@ -25470,7 +25539,7 @@ Transform:
   - {fileID: 2049431869}
   - {fileID: 1978202607}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2132084083
 GameObject:
