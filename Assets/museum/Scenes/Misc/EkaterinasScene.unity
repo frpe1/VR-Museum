@@ -240,16 +240,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The Sistine Madonna, also called the Madonna di San Sisto, is an oil painting
+  m_text: The Sistine Madonna, also called the Madonna di San Sisto, is an oil painting
     by the Italian artist Raphael. The painting was commissioned in 1512 by Pope
     Julius II for the church of San Sisto, Piacenza, and probably executed c. 1513-1514.
-    The canvas was one of the last Madonnas painted by Raphael. Giorgio Vasari called
-    it "a truly rare and extraordinary work".
-
-    The painting was moved to Dresden
-    from 1754 and is well known for its influence in the German and Russian art scene.
-    After World War II, it was relocated to Moscow for a decade before being returned
-    to Germany.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -3460,17 +3453,7 @@ MonoBehaviour:
     courage. As the painter of Guernica, he was an internationally recognised anti-fascist
     and Hitler had denounced him by name in a speech. German agents regularly visited
     his studio in search of incriminating evidence, during which they routinely insulted
-    him and destroyed his paintings.\r\nHowever, a letter found in the Archive Picasso,
-    dated 16 September, 1943 \u2014 just five weeks before he painted Le Marin \u2014
-    demonstrated that the Nazis planned to deport Picasso to a concentration camp.\r\nThe
-    artist was saved only by the intervention of friends. Max Jacob, who had been
-    one of Picasso\u2019s closest friends, was deported to a concentration camp in
-    the spring of 1944 and died there. That August, the Allies would liberate Paris.\r\nCreated
-    only weeks after the most dangerous crisis Picasso personally faced in the war,
-    Le Marin reflects the artist\u2019s emotional and psychological distress. \u2018I
-    have no doubt that the war is in the paintings I have done,\u2019 he said in
-    1944. Perhaps no painting he made during the Occupation more directly conveys
-    this feeling than Le Marin."
+    him and destroyed his paintings.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4013,16 +3996,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The Last Supper (Italian: Il Cenacolo or L'Ultima Cena) is a late 15th-century
+  m_text: 'The Last Supper (Italian: Il Cenacolo or L''Ultima Cena) is a late 15th-century
     mural painting by Italian artist Leonardo da Vinci housed by the refectory of
     the Convent of Santa Maria delle Grazie in Milan, Italy. It is one of the Western
-    world's most recognizable paintings.\nThe work is assumed to have been started
-    around 1495\u201396 and was commissioned as part of a plan of renovations to
-    the church and its convent buildings by Leonardo's patron Ludovico Sforza, Duke
-    of Milan. The painting represents the scene of the Last Supper of Jesus with
-    his apostles, as it is told in the Gospel of John, 13:21. Leonardo has depicted
-    the consternation that occurred among the Twelve Apostles when Jesus announced
-    that one of them would betray him.\r"
+    world''s most recognizable paintings.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -6702,15 +6679,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'The Great Wave off Kanagawa (Hepburn: Kanagawa-oki Nami Ura, lit. "Under
     the Wave off Kanagawa"), also known as The Great Wave or simply The Wave, is
-    a woodblock print by the Japanese ukiyo-e artist Hokusai. It was published sometime
-    between 1829 and 1833 in the late Edo period as the first print in Hokusai''s
-    series Thirty-six Views of Mount Fuji. The image depicts an enormous wave threatening
-    three boats off the coast in the Sagami Bay (Kanagawa Prefecture) while Mount
-    Fuji rises in the background. Sometimes assumed to be a tsunami, the wave is
-    more likely to be a large rogue wave.
-
-    It is Hokusai''s most famous work
-    and is often considered the most recognizable work of Japanese art in the world.'
+    a woodblock print by the Japanese ukiyo-e artist Hokusai.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -6938,18 +6907,7 @@ MonoBehaviour:
   m_text: 'The Last Judgment (Italian: Il Giudizio Universale) is a fresco by the
     Italian Renaissance painter Michelangelo covering the whole altar wall of the
     Sistine Chapel in Vatican City. It is a depiction of the Second Coming of Christ
-    and the final and eternal judgment by God of all humanity. The dead rise and
-    descend to their fates, as judged by Christ who is surrounded by prominent saints.
-    Altogether there are over 300 figures, with nearly all the males and angels originally
-    shown as nudes; many were later partly covered up by painted draperies, of which
-    some remain after recent cleaning and restoration.
-
-    The work took over four
-    years to complete between 1536 and 1541 (preparation of the altar wall began
-    in 1535). Michelangelo began working on it twenty-five years after having finished
-    the Sistine Chapel ceiling, and was nearly 67 at its completion. He had originally
-    accepted the commission from Pope Clement VII, but it was completed under Pope
-    Paul III whose stronger reforming views probably affected the final treatment.'
+    and the final and eternal judgment by God of all humanity. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -10543,24 +10501,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Michelangelo was originally commissioned to paint the Twelve Apostles
-    on the triangular pendentives that supported the ceiling, and cover the central
-    part of the ceiling with ornament. Michelangelo persuaded Pope Julius to give
-    him a free hand and proposed a different and more complex scheme, representing
-    the Creation, the Fall of Man, the Promise of Salvation through the prophets,
-    and the genealogy of Christ. The work is part of a larger scheme of decoration
-    within the chapel which represents much of the doctrine of the Catholic Church.
-
-    The
-    composition stretches over 500 square metres of ceiling, and contains over 300
-    figures. At its centre are nine episodes from the Book of Genesis, divided into
-    three groups: God''s Creation of the Earth; God''s Creation of Humankind and
-    their fall from God''s grace; and lastly, the state of Humanity as represented
-    by Noah and his family. On the pendentives supporting the ceiling are painted
-    twelve men and women who prophesied the coming of Jesus; seven prophets of Israel
-    and five Sibyls, prophetic women of the Classical world. Among the most famous
-    paintings on the ceiling are The Creation of Adam, Adam and Eve in the Garden
-    of Eden, the Deluge, the Prophet Jeremiah and the Cumaean Sibyl.'
+  m_text: Michelangelo was originally commissioned to paint the Twelve Apostles on
+    the triangular pendentives that supported the ceiling, and cover the central
+    part of the ceiling with ornament.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -10773,27 +10716,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'The Tower of Babel was the subject of three paintings by Pieter Bruegel
     the Elder. The first, a miniature painted on ivory, was painted while Bruegel
-    was in Rome and is now lost. The two surviving paintings, often distinguished
-    by the prefix "Great" and "Little", are in the Kunsthistorisches Museum, Vienna
-    and the Museum Boijmans Van Beuningen in Rotterdam respectively. Both are oil
-    paintings on wood panels.
-
-    The Rotterdam painting is about half the size
-    of the Vienna one. In broad terms they have exactly the same composition, but
-    at a detailed level everything is different, whether in the architecture of the
-    tower or in the sky and the landscape around the tower. The Vienna version has
-    a group in the foreground, with the main figure presumably Nimrod, who was believed
-    to have ordered the construction of the tower, although the Bible does not actually
-    say this. In Vienna the tower rises at the edge of a large city, but the Rotterdam
-    tower is in open countryside.
-
-    The paintings depict the construction of the
-    Tower of Babel, which, according to the Book of Genesis in the Bible, was built
-    by a unified, monolingual humanity as a mark of their achievement and to prevent
-    them from scattering: "Then they said, ''Come, let us build ourselves a city,
-    and a tower with its top in the heavens, and let us make a name for ourselves;
-    otherwise we shall be scattered abroad upon the face of the whole earth.''" (Genesis
-    11:4).'
+    was in Rome and is now lost. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -10927,21 +10850,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The Scream is the popular name given to a composition created by Norwegian
+  m_text: 'The Scream is the popular name given to a composition created by Norwegian
     Expressionist artist Edvard Munch in 1893. The original German title given by
     Munch to his work was Der Schrei der Natur (The Scream of Nature), and the Norwegian
-    title is Skrik (Shriek). The agonised face in the painting has become one of
-    the most iconic images of art, seen as symbolising the anxiety of the human condition.\r\nMunch
-    recalled that he had been out for a walk at sunset when suddenly the setting
-    sunlight turned the clouds \"a blood red\". He sensed an \"infinite scream passing
-    through nature\". Scholars have located the spot to a fjord overlooking Oslo,
-    and have suggested other explanations for the unnaturally orange sky, ranging
-    from the effects of a volcanic eruption to a psychological reaction by Munch
-    to his sister\u2019s commitment at a nearby lunatic asylum.\r\nMunch created
-    two versions in paint and two in pastels, as well as a lithograph stone from
-    which several prints survive. Both of the painted versions have been stolen,
-    but since recovered. One of the pastel versions commanded the fourth highest
-    nominal price paid for an artwork at a public auction."
+    title is Skrik (Shriek). '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -11600,15 +11512,7 @@ MonoBehaviour:
   m_text: "The painting is famous for three things: its colossal size (363 cm \xD7
     437 cm (11.91 ft \xD7 14.34 ft)), the dramatic use of light and shadow (tenebrism)
     and the perception of motion in what would have traditionally been a static military
-    group portrait. The painting was completed in 1642, at the peak of the Dutch
-    Golden Age. It depicts the eponymous company moving out, led by Captain Frans
-    Banninck Cocq (dressed in black, with a red sash) and his lieutenant, Willem
-    van Ruytenburch (dressed in yellow, with a white sash). With effective use of
-    sunlight and shade, Rembrandt leads the eye to the three most important characters
-    among the crowd: the two men in the center (from whom the painting gets its original
-    title), and the woman in the centre-left background carrying a chicken. Behind
-    them, the company's colors are carried by the ensign, Jan Visscher Cornelissen.
-    The figures are almost life-size.\r"
+    group portrait."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -12211,11 +12115,6 @@ MonoBehaviour:
       m_Calls: []
   m_text: The Starry Night was painted during the day in Van Gogh's ground-floor
     studio, it would be inaccurate to state that the picture was painted from memory.
-    The view has been identified as the one from his bedroom window, facing east,
-    a view which Van Gogh painted variations of no fewer than twenty-one times,[citation
-    needed] including The Starry Night. "Through the iron-barred window," he wrote
-    to his brother, Theo, around 23 May 1889, "I can see an enclosed square of wheat
-    ... above which, in the morning, I watch the sun rise in all its glory."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -14555,6 +14454,38 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: -4897732323685117858, guid: 22d679be52fd40d49bbf15799733276c, type: 3}
   m_PrefabInstance: {fileID: 1171201426}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1177403021
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1177403022}
+  m_Layer: 0
+  m_Name: Statue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1177403022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1177403021}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -11.359415, y: -1.5687006, z: -20.766048}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1426747954}
+  - {fileID: 1941040673}
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1184197803
 GameObject:
   m_ObjectHideFlags: 0
@@ -17214,6 +17145,72 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1419063042}
   m_CullTransparentMesh: 1
+--- !u!1001 &1426747953
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1177403022}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.049415
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.2187004
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8439522
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 937c98016b41e8641900682995854852, type: 2}
+    - target: {fileID: 919132149155446097, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+      propertyPath: m_Name
+      value: Pedestal_low
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+--- !u!4 &1426747954 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a23875f8538a5a74d871ac4b929100e9, type: 3}
+  m_PrefabInstance: {fileID: 1426747953}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1440882906
 GameObject:
   m_ObjectHideFlags: 0
@@ -17514,15 +17511,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The painting is a tronie, the Dutch 17th-century description of a 'head'
+  m_text: The painting is a tronie, the Dutch 17th-century description of a 'head'
     that was not meant to be a portrait. It depicts a European girl wearing an exotic
-    dress, an oriental turban, and an improbably large pearl earring. \nThe work
-    is oil on canvas and is 44.5 cm (17.5 in) high and 39 cm (15 in) wide. It is
-    signed \"IVMeer\" but not dated. It is estimated to have been painted around
-    1665.\nBackground was originally a deep enamel-like green. This effect was produced
-    by applying a thin transparent layer of paint\u2014a glaze\u2014over the black
-    background seen now. However, the two organic pigments of the green glaze, indigo
-    and weld, have faded."
+    dress, an oriental turban, and an improbably large pearl earring.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -18318,15 +18309,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "The Lady with an Ermine (Italian: Dama con l'ermellino) is a portrait
     painting widely attributed to Italian Renaissance artist Leonardo da Vinci. Dated
-    to c.\u20091489\u20131491 the work is painted in oils on walnut panel. The portrait's
-    subject is Cecilia Gallerani, painted at a time when she was the mistress of
-    Ludovico Sforza, Duke of Milan, and Leonardo was in the Duke's service. \nThe
-    Lady with an Ermine was executed with oils on a small, 54 \xD7 39 cm (21 \xD7
-    15 in) walnut wood panel. Oil paint was relatively new to Italy at the time,
-    having been introduced in the 1470s, and walnut was a wood favored by Leonardo.
-    The work is prepared with a layer of white gesso and a layer of brownish underpaint.
-    The painting shows a half-height woman turned toward her right at a three-quarter
-    angle, but with her face turned toward her left."
+    to c.\u20091489\u20131491 the work is painted in oils on walnut panel."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -19075,10 +19058,7 @@ MonoBehaviour:
     Pass or Bonaparte Crossing the Alps; listed as Le Premier Consul franchissant
     les Alpes au col du Grand Saint-Bernard) is any of five versions of an oil on
     canvas equestrian portrait of Napoleon Bonaparte painted by the French artist
-    Jacques-Louis David between 1801 and 1805. Initially commissioned by the King
-    of Spain, the composition shows a strongly idealized view of the real crossing
-    that Napoleon and his army made across the Alps through the Great St. Bernard
-    Pass in May 1800.
+    Jacques-Louis David between 1801 and 1805.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -19551,6 +19531,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6408641905100238604, guid: c9f45fcc5eb56034289031ef09175c32, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408641905100238604, guid: c9f45fcc5eb56034289031ef09175c32, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408641905100238604, guid: c9f45fcc5eb56034289031ef09175c32, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6408641905100238605, guid: c9f45fcc5eb56034289031ef09175c32, type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6408641906158785552, guid: c9f45fcc5eb56034289031ef09175c32, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -20103,9 +20099,7 @@ MonoBehaviour:
     painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece
     of the Italian Renaissance, it has been described as "the best known, the most
     visited, the most written about, the most sung about, the most parodied work
-    of art in the world". The painting''s novel qualities include the subject''s
-    enigmatic expression, the monumentality of the composition, the subtle modelling
-    of forms, and the atmospheric illusionism.'
+    of art in the world". '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -20647,18 +20641,7 @@ MonoBehaviour:
   m_text: "Raphael chose the scene of the nymph's apotheosis (Stanze, I, 118\u2013119).
     Galatea appears surrounded by other sea creatures whose forms are somewhat inspired
     by Michelangelo, whereas the bright colors and decoration are supposed to be
-    inspired by ancient Roman painting. At the left, a Triton (partly man, partly
-    fish) abducts a sea nymph; behind them, another Triton uses a shell as a trumpet.
-    Galatea rides a shell-chariot drawn by two dolphins.\r\nWhile some have seen
-    in the model for Galatea the image of the courtesan, Imperia, Agostino Chigi's
-    lover and Raphael's near-contemporary, Giorgio Vasari wrote that Raphael did
-    not mean for Galatea to resemble any one human person, but to represent ideal
-    beauty.[citation needed] When asked where he had found a model of such beauty,
-    Raphael reportedly said that he had used \"a certain idea\" he had formed in
-    his mind\r.\nIn a letter to Baldassare Castiglione, Raphael dictated via Pietro
-    Aretino, that \"to paint a beauty, I should have to see a number of beauties,
-    provided Your Lordship were with me to choose the best. But in the absence of
-    good judges and beautiful forms, I use an idea that comes to my mind.\"\r"
+    inspired by ancient Roman painting. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -21185,16 +21168,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The Doni Tondo or Doni Madonna, is the only finished panel painting by
+  m_text: The Doni Tondo or Doni Madonna, is the only finished panel painting by
     the mature Michelangelo to survive. Now in the Uffizi in Florence, Italy, and
     still in its original frame, the Doni Tondo was probably commissioned by Agnolo
-    Doni to commemorate his marriage to Maddalena Strozzi, the daughter of a powerful
-    Tuscan family. \nThe work was most likely created during the period after Doni's
-    marriage in 1503 or 1504, and before the Sistine Chapel ceiling frescoes were
-    begun in 1508. The Doni Tondo portrays the Holy Family (the child Jesus, Mary,
-    and Joseph) in the foreground, along with John the Baptist in the middle-ground,
-    and contains five nude male figures in the background. The inclusion of these
-    nude figures has been interpreted in a variety of ways."
+    Doni to commemorate his marriage to Maddalena Strozzi.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -23151,6 +23128,104 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1936211721}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1941040672
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1177403022}
+    m_Modifications:
+    - target: {fileID: 119792, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_Name
+      value: Nefertiti
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.978415
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.3887005
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.82995224
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2310510, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d61552ca858b1c14bb70325ebabf1fae, type: 2}
+    - target: {fileID: 2322322, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d61552ca858b1c14bb70325ebabf1fae, type: 2}
+    - target: {fileID: 2326920, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d61552ca858b1c14bb70325ebabf1fae, type: 2}
+    - target: {fileID: 2375362, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d61552ca858b1c14bb70325ebabf1fae, type: 2}
+    - target: {fileID: 20541586, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalReferencePoint.x
+      value: 0.00004541874
+      objectReference: {fileID: 0}
+    - target: {fileID: 20541586, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+      propertyPath: m_LocalReferencePoint.z
+      value: -0.0010823607
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+--- !u!4 &1941040673 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 495224, guid: 1cb9098d04240cd40a212f5d4858aa26, type: 3}
+  m_PrefabInstance: {fileID: 1941040672}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1965660631
 GameObject:
   m_ObjectHideFlags: 0
@@ -25116,18 +25191,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Klimt's 'Golden Phase' was marked by positive critical reaction and financial
     success. Many of his paintings from this period included gold leaf.  Most popular
-    are the Portrait of Adele Bloch-Bauer I (1907) and The Kiss (1907\u201308).\r\nKlimt
-    traveled little, but trips to Venice and Ravenna, both famous for their beautiful
-    mosaics, most likely inspired his gold technique and his Byzantine imagery. In
-    1904, he collaborated with other artists on the lavish Palais Stoclet, the home
-    of a wealthy Belgian industrialist that was one of the grandest monuments of
-    the Art Nouveau age. Klimt's contributions to the dining room, including both
-    Fulfillment and Expectation, were some of his finest decorative works, and as
-    he publicly stated, \"probably the ultimate stage of my development of ornament.\"\r\nAs
-    he worked and relaxed in his home, Klimt normally wore sandals and a long robe
-    with no undergarments.  His painting method was very deliberate and painstaking
-    at times and he required lengthy sittings by his subjects. Although very active
-    sexually, he kept his affairs discreet and he avoided personal scandal."
+    are the Portrait of Adele Bloch-Bauer I (1907) and The Kiss (1907\u201308).\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
