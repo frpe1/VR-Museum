@@ -18506,7 +18506,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1500718487856305968, guid: deb2178e04e37cf42b3604a28da409f6, type: 3}
       propertyPath: m_TrackingOriginMode
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1500718487856305969, guid: deb2178e04e37cf42b3604a28da409f6, type: 3}
       propertyPath: m_RootOrder
